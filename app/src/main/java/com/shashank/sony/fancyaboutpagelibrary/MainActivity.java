@@ -32,7 +32,8 @@ public class MainActivity extends AppCompatActivity {
         fancyAboutPage.setVersionNameAsAppSubTitle("1.2.3");
         fancyAboutPage.setAppDescription("Cake Pop Icon Pack is an icon pack which follows Google's Material Design language.\n\n" +
                 "This icon pack uses the material design color palette given by google. Every icon is handcrafted with attention to the smallest details!\n\n"+
-                "A fresh new take on Material Design iconography. Cake Pop offers unique, creative and vibrant icons. Spice up your phones home-screen by giving it a fresh and unique look with Polycon.");
+                "A fresh new take on Material Design iconography. Cake Pop offers unique, creative and vibrant icons. Spice up your phones home-screen by giving it a fresh and unique look with Polycon.",
+                Color.RED);
         fancyAboutPage.addEmailLink("shashanksinghal02@gmail.com");
         fancyAboutPage.addFacebookLink("https://www.facebook.com/shashanksinghal02");
         fancyAboutPage.addTwitterLink("https://twitter.com/shashank020597");

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FancyAboutPageLibrary.iml" filepath="$PROJECT_DIR$/FancyAboutPageLibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fancyaboutpagelib/fancyaboutpagelib.iml" filepath="$PROJECT_DIR$/fancyaboutpagelib/fancyaboutpagelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FancyAboutPage-Android.iml" filepath="$PROJECT_DIR$/.idea/FancyAboutPage-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FancyAboutPage-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FancyAboutPage-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fancyaboutpagelib/FancyAboutPage-Android.fancyaboutpagelib.iml" filepath="$PROJECT_DIR$/.idea/modules/fancyaboutpagelib/FancyAboutPage-Android.fancyaboutpagelib.iml" />
     </modules>
   </component>
 </project>

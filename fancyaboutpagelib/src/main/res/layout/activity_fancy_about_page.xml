@@ -145,7 +145,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/appdescription"
-                android:textColor="#464646"
                 android:textSize="14dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginLeft="16dp"

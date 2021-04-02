@@ -137,9 +137,9 @@ public class FancyAboutPage extends RelativeLayout {
     public void setVersionNameAsAppSubTitle(String AppVersion){
        l4.setText("Version "+AppVersion);
     }
-    public void setAppDescription(String AppDescription){
+    public void setAppDescription(String AppDescription, int textColor){
         l5.setText(AppDescription);
-
+        l5.setTextColor(textColor);
     }
 
 }
